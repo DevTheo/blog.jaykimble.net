@@ -9,6 +9,8 @@ Once upon a time, I was a blogger on a somewhat large site. It was a site that w
 
 After a time, I moved off my site, and archived my content to my own blog, and then I got busy. Blogging became less of a thing for me. Eventually, I shut the whole thing down (well, the archive got shut down as my hosting lapsed). Now, I always have had stuff I could write about, but I just didn't have the time to do it. Anyway, fast forward to today. I have something I want to write about.
 
+Fast forward to today, and I'm now an Agile proponent (I finally learned enough to become more aware). I grew as a developer where now I'm actually a solutions architect with some of my expertise being in mentoring devs. The short of it is that I grew up like we all do eventually.  So now that you know who I am (or who I think I am), let's chat about why I posted this.
+
 # I love Deno
 
 Every dev, spends time in their off hours working on personal projects. Sometimes they publish those projects, and sometimes they let those projects die on their local machines. Usually they spend time with new tech, new languages, etc. For me the goto has been Deno. In my day job I am mostly a C# developer (although I am still a decent react dev as well). Admittedly, I've never been a huge proponent of NodeJs. It feels clunky. I guess I should also say that I love TypeScript! TypeScript is a first class citizen in Deno. Additionally I love the Rust backend (I also have a love of Wasm/Wasi). There's a lot to love.
